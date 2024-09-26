@@ -886,6 +886,7 @@ div.thecho-ovh {
 }
 
 .thecho-faq-area .btn-link {
+	text-align: left;
 	color: #FFF;
 	font-weight: 600;
 	white-space: inherit;
