@@ -273,7 +273,7 @@ div.thecho-ovh {
 .thecho-header-area .navbar.navbar-expand-md ul li a:before {
    position: absolute;
    content: "";
-   top: 60%;
+   top: 70%;
    left: 13px;
    background-color: #000;
    width: 0;
