@@ -1025,7 +1025,7 @@ div.thecho-ovh {
    font-weight: 700;
 }
 
-.contact-details .single-detail p,
+.contact-details .single-detail p a,
 .contact-details .single-detail ul li a {
    font-weight: 500;
    color: #353535;
